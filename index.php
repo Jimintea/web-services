@@ -33,7 +33,6 @@ function bondTemplate(film){
   <b>Producers: </b> ${film.Producers}<br />
   <b>Writers: </b> ${film.Writers}<br />
   <b>Composer: </b> ${film.Composer}<br />
-  <b>Bond: </b> ${film.Bond}<br />
   <b>Budget: </b> ${film.Budget}<br />
   <b>BoxOffice: </b> ${film.BoxOffice}<br />
   <div class="pic"><img src="thumbnails/${film.Image}" /></div>
@@ -88,9 +87,9 @@ $(document).ready(function() {
 </script>
 </head>
 	<body>
-	<h1>Bond Web Service</h1>
-		<a href="year" class="category">Bond Films By Year</a><br />
-		<a href="box" class="category">Bond Films By International Box Office Totals</a>
+	<h1>Harry Potter Web Service</h1>
+		<a href="year" class="category">Harry Potter Films By Year</a><br />
+		<a href="box" class="category">Harry Potter Films By International Box Office Totals</a>
 		<h3 id="filmtitle">Title Will Go Here</h3>
 		<div id="films">
 			<p>Films will go here</p>
