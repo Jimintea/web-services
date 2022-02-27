@@ -49,7 +49,7 @@
 				"Composer":"Nicholas Hooper",
 				"Budget":"$150,000,000.00",
 				"BoxOffice":"$942,200,000.00",
-				"Image":"order-of-the-pheonix.jpg"
+				"Image":"order-of-the-phoenix.jpg"
 			  },
 			  {
 				"Film":6,

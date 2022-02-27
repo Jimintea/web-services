@@ -23,7 +23,7 @@
 				"Composer":"John Williams",
 				"Budget":"$100,000,000.00",
 				"BoxOffice":"$879,600,000.00",
-				"Image":"sorcerers-stone.jpg"
+				"Image":"chamber-of-secrets.jpg"
 			  },
 			  {
 				"Film":3,
@@ -59,7 +59,7 @@
 				"Composer":"Nicholas Hooper",
 				"Budget":"$150,000,000.00",
 				"BoxOffice":"$942,200,000.00",
-				"Image":"order-of-the-pheonix.jpg"
+				"Image":"order-of-the-phoenix.jpg"
 			  },
 			  {
 				"Film":6,
